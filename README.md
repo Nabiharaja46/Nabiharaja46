@@ -1,3 +1,4 @@
+![logo](https://github.com/Nabiharaja46/Nabiharaja46/blob/main/GITHUB.jpeg)
 <h1 align="center">Hi 👋, I'm Nabiha raja</h1>
 - 🌱 I’m currently learning **Web and App Development,**
 
