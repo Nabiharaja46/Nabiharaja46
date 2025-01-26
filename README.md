@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Nabiha raja</h1>
 - 🌱 I’m currently learning **Web and App Development,**
 
-<img align="right" alt="coding" width="325" src="https://user-images.githubusercontent.com/74038190/236119160-976a0405-caa7-470c-9356-16d43402ea0a.gif">
+<img align="right" alt="coding" width="300" src="https://user-images.githubusercontent.com/74038190/236119160-976a0405-caa7-470c-9356-16d43402ea0a.gif">
 - 💬 Ask me about **c, c++, Html, Css , sql
 
 - 📫 How to reach me **nabiharaja55@gmail.com**
